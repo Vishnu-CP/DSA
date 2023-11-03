@@ -1,4 +1,4 @@
-package oal.crm.apps.territories.test;
+package com.vishnu.test;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

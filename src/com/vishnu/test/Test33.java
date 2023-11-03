@@ -1,4 +1,4 @@
-package oal.crm.apps.territories.test;
+package com.vishnu.test;
 
 public class Test33 {
 	

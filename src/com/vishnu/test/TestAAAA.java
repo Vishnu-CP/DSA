@@ -1,4 +1,4 @@
-package oal.crm.apps.territories.test;
+package com.vishnu.test;
 
 import org.json.JSONArray;
 

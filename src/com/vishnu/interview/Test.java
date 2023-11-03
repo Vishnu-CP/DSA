@@ -1,4 +1,4 @@
-package oal.crm.apps.territories.interview;
+package com.vishnu.interview;
 
 import java.math.BigDecimal;
 
