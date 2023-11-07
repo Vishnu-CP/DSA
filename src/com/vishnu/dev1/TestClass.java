@@ -11,7 +11,12 @@ public class TestClass {
 
 	static void print(){
 		
-		System.out.println("Print Dev1");
+		System.out.println("Print");
+		System.out.println("Print");
+	}
+	
+	static void printC() {
+		System.out.println("Print C");
 	}
 
 }
